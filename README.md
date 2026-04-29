@@ -1,6 +1,6 @@
-# 🤖 AI-First HCP CRM
+#  AI-First HCP CRM
 
-## 🚀 Project Overview
+## Project Overview
 
 AI-First CRM system designed for **Healthcare & Pharmaceutical field representatives** to efficiently log and analyze interactions with doctors (HCPs).
 
@@ -64,7 +64,7 @@ React Frontend  <----->  FastAPI Backend  <----->  LangGraph Agent  <----->  Gro
 
 ---
 
-## 🤖 LangGraph Tools
+##  LangGraph Tools
 
 ### 1. LogInteractionTool
 
